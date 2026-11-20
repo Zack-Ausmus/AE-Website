@@ -64,7 +64,7 @@ const architecturalPhotos = [
         alt: "Third architectural project"
     },
     {
-        src: "images/arch4.jpg",
+        src: "images/arch4.JPG",
         alt: "Fourth architectural project"
     },
     {
