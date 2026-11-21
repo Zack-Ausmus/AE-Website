@@ -1241,3 +1241,11 @@ input[type="tel"],
 }
 
 /* GitHub Desktop Publishing Test - November 20, 2026 */
+
+/* Mobile Homepage Background Fix */
+@media (max-width: 800px) {
+    .home-page .site-header,
+    .home-page .hero {
+        background: #f8f5f0;
+    }
+}
